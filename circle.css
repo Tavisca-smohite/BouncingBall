@@ -1,0 +1,15 @@
+﻿.circles{
+  border-radius: 50%;
+  position: absolute;
+    behavior: url(PIE.htc); 
+    
+    height: 50px;
+    background: yellow;
+    border: 3px solid red;
+}
+
+.container {
+    background-color:black;
+    width:800px;
+    height:600px;
+    }
